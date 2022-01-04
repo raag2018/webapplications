@@ -23,3 +23,4 @@ C:\Users\UNAB\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebA
 C:\Users\UNAB\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
 C:\Users\UNAB\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
 C:\Users\UNAB\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\UNAB\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
